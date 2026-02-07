@@ -101,11 +101,11 @@ I love bridging the gap between:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anirban-baisya&show_icons=true&theme=react&hide_border=true&cache_seconds=1800"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=anirban-baisya&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" />
 
-<img src="https://streak-stats.demolab.com?user=anirban-baisya&theme=black-ice&hide_border=true"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=anirban-baisya&theme=black-ice&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban-baisya&layout=compact&theme=react&hide_border=true&cache_seconds=1800"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban-baisya&layout=compact&theme=react&hide_border=true&cache_seconds=86400" />
 
 </p>
 
