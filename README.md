@@ -1,8 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 
-<h1 align="center">
+<!-- <h1 align="center">
 Hi 👋 I'm <b>Anirban Baisya</b>
+</h1> -->
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&pause=900&color=61DBFB&center=true&vCenter=true&width=900&height=80&lines=Hi+There!+👋;I'm+Anirban+Baisya;" />
 </h1>
 
 <h3 align="center">
@@ -97,17 +100,24 @@ I love bridging the gap between:
 
 ---
 
+## 🔥 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anirban-baisya&bg_color=0D1117&color=61DBFB&line=61DBFB&point=FFFFFF&hide_border=true"/>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=anirban-baisya&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" />
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anirban-baisya&show_icons=true"/>
 
-<img height="160em" src="https://streak-stats.demolab.com?user=anirban-baisya&theme=black-ice&hide_border=true" />
+<img height="160em" src="https://streak-stats.demolab.com?user=anirban-baisya"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban-baisya&layout=compact&theme=react&hide_border=true&cache_seconds=86400" />
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anirban-baisya&layout=compact"/>
 
 </p>
+
 
 ---
 
